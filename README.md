@@ -1,2 +1,2 @@
 # Recursion-Exercise
-Some recursion exercises in javas
+Some recursion exercises in java
